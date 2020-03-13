@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohhodeequ.rosas.cn/sitemap.xml
